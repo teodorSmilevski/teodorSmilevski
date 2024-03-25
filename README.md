@@ -18,8 +18,9 @@
 ---
 ### :man_technologist: About Me :
 Hi, I'm Teodor Smilevski, a frontend web developer with a passion for creating responsive and visually appealing web experiences.
- - 🎓 Web Developer in the making...
- - 🌱 Constantly learning and exploring new technologies to enhance my skills and stay updated with the latest trends in frontend development.
+ - 💻 Experienced in building interactive and user-friendly web applications with a focus on performance and accessibility.
+ - 🌱 Currently pursuing a degree in Computer Science at the Faculty of Information and Communication Technologies in Bitola.
+ - 🔧 Constantly learning and exploring new technologies to enhance my skills and stay updated with the latest trends in frontend development.
  - ⚡ Pursuing reading, illustrating and training as hobbies.
 
 ---
