@@ -40,10 +40,6 @@ Hi, I'm Teodor Smilevski, a frontend web developer with a passion for creating r
 👔 LinkedIn: [Teodor Smilevski](https://www.linkedin.com/in/teodor-smilevski-21860221b/)<br>
 💻 GitHub: [teodorSmilevski](https://github.com/teodorSmilevski)
 
----
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teodorSmilevski&theme=shadow-blue&hide_border=true&card_width=1000)](https://git.io/streak-stats)
-
 
 
 
